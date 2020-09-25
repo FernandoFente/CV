@@ -1,0 +1,65 @@
+html *{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(182, 125, 59);
+    font-size: 1.5em;
+}
+
+header {
+    display: flex;
+}
+
+header img {
+    width: 10%;
+    height: auto;
+    margin-top: 5vh;
+    margin-left: 7vw;
+    border-radius:5%;
+}
+
+header h1 {
+    margin-left: 25vw;
+    margin-top: 10vh;
+    color: #f2f2f2;
+}
+
+section {
+    display: flex;
+}
+
+
+section div.izquierda *{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+section div.izquierda {
+    width: 25vw;
+    height: 100%;
+    text-align: center;
+}
+
+section div.derecha{
+    background-color: rgb(173, 138, 98);
+    width: 75vw; 
+}
+
+section div.derecha h2 {
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+    color: #f2f2f2;
+}
+
+section div.derecha h3{
+    margin: 3vh 0;
+}
+
+section div.derecha div{
+    margin-left: 5vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
