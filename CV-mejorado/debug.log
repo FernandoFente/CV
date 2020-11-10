@@ -1,0 +1,3 @@
+[1106/132020.901:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1106/152008.791:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ferpachu\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\70bec2e2-b68b-4a16-9186-72436461942a: El sistema no puede encontrar la ruta especificada. (0x3)
+[1106/181104.238:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)

@@ -1,0 +1,33 @@
+html * {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #e1d8cf;
+    font-family: 'Roboto Slab', serif;
+}
+
+.marroncito{
+    background-color: #e1d8cf;
+}
+
+.roboto{
+    font-family: 'Roboto Slab', serif;
+}
+
+.centro{
+}
+
+body h4 {
+    background-color:  rgb(35, 37, 61);
+    color:#e1d8cf;
+    width: 70%;
+    padding: 1vh 2vw;
+    font-size: 1.2em;
+    font-family: 'Roboto Slab', 'serif';
+}
+
+.bg-blue {
+    background-color:  rgb(35, 37, 61);
+}
